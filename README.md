@@ -1,1 +1,1 @@
-# ComplexNum - basic class num with assert-based tests
+# ComplexNum - basic class of complex number with assert-based tests
